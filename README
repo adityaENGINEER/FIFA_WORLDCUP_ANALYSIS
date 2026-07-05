@@ -1,0 +1,149 @@
+# 🏆 FIFA World Cup 2026 - Player Performance Analysis
+
+Data-driven insights from **54,600 players** across **32 teams** at FIFA World Cup 2026. Comprehensive analysis of player performance, team strength, and positional effectiveness.
+
+---
+
+## 📊 Quick Overview
+
+| Metric | Value |
+|--------|-------|
+| **Total Players** | 54,600 |
+| **Teams** | 32 Nations |
+| **Data Attributes** | 75 Columns |
+| **Duplicates** | 0 ✅ |
+| **Data Quality** | 100% |
+
+---
+
+## 📂 What's Inside?
+
+```
+📁 Dataset Includes:
+├── Player Information (Name, Age, Nationality, Jersey #)
+├── Physical Attributes (Height, Weight, Preferred Foot)
+├── Tournament Stats (Goals, Assists, Minutes, Ratings)
+├── Performance Metrics (Creativity, Consistency, Pressure Resistance)
+└── Team Comparisons & Rankings
+```
+
+---
+
+## 🔍 Analysis Covered
+
+✅ **Data Exploration & Validation**
+- Complete data structure analysis
+- Duplicate detection & missing values check
+- Data type validation
+
+✅ **Descriptive Statistics**
+- Player age, height, weight distributions
+- Performance metric summaries
+
+✅ **Position Distribution**
+- Goalkeeper, Defender, Midfielder, Forward breakdowns
+- Squad composition insights
+
+✅ **Team Performance**
+- Average tournament ratings by team
+- Team strength comparison
+- Performance rankings
+
+---
+
+## 🚀 Quick Start
+
+### Requirements
+```bash
+Python 3.7+
+Jupyter Notebook
+```
+
+### Installation
+```bash
+# Clone repo
+git clone https://github.com/yourusername/fifa-worldcup-analysis.git
+cd fifa-worldcup-analysis
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run Jupyter
+jupyter notebook
+```
+
+### Open & Run
+Open `FIFA_WORLDCUP_ANALYSIS-checkpoint.ipynb` in Jupyter and run all cells.
+
+---
+
+## 📈 Key Findings
+
+### 1️⃣ Player Distribution
+Shows which positions have the highest representation across all 32 teams.
+
+### 2️⃣ Team Strength
+Teams with **higher average ratings** performed better overall, while lower-rated teams showed weaker tournament performance.
+
+### 3️⃣ Data Quality
+- ✅ No duplicate records
+- ✅ Proper data types
+- ✅ Valid player information
+- ✅ Complete tournament statistics
+
+---
+
+## 📚 Technologies
+
+```
+🐍 Python 3.x
+📊 Pandas - Data manipulation
+🔢 NumPy - Numerical analysis
+📉 Matplotlib - Visualizations
+📓 Jupyter - Interactive notebooks
+```
+
+---
+
+## 📋 File Structure
+
+```
+.
+├── README.md                                    
+├── FIFA_WORLDCUP_ANALYSIS-checkpoint.ipynb     # Main Analysis
+├── fifa_world_cup_2026_player_performance.csv  # Dataset
+├── requirements.txt                            
+└── .gitignore                                  
+```
+
+---
+
+## 🤝 Want to Contribute?
+
+1. Fork this repo
+2. Create your branch: `git checkout -b feature/new-analysis`
+3. Commit: `git commit -m 'Add analysis'`
+4. Push: `git push origin feature/new-analysis`
+5. Open a Pull Request
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+---
+
+## 📜 License
+
+MIT License - Feel free to use this project!
+
+---
+
+## 💬 Questions?
+
+- 📧 Open an issue on GitHub
+- 💡 Check the notebook for detailed explanations
+- 🤝 Submit a pull request with improvements
+
+---
+
+**Made with ❤️ for Football Analytics**
+
+*Last Updated: July 2026 | Version 1.0*
